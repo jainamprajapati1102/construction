@@ -1,0 +1,14 @@
+.fix-icon {
+  width: 54px;
+  height: auto;
+}
+
+@media (max-width: 575px) {
+  .big-logo {
+    display: none !important;
+  }
+}
+
+.scrollbar-hidden::-webkit-scrollbar {
+  display: none;
+}
